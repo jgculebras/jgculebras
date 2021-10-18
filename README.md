@@ -16,9 +16,6 @@
 
 - SQL and NoSQL
 
-🛤️ I'm currently working on my own videogame, I will be giving more details on the future.
-
-
 
 ## 📱 Social Media
  
