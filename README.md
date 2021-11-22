@@ -16,6 +16,8 @@
 
 - SQL and NoSQL
 
+- Blockchain/Remix/Solidity
+
 
 ## 📱 Social Media
  
