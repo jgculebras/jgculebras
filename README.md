@@ -1,4 +1,4 @@
-# Hi, 👋 I’m Culebras
+# Hi
 
 📚 I’m studying Software Engineering at UPM (Polytechnic University of Madrid)
 
