@@ -21,7 +21,7 @@
 
 ## 📱 Social Media
 
-- LinkedIn: https://www.linkedin.com/in/javierculebras/
+- LinkedIn:
 
 <!---
 jgculebras/jgculebras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
